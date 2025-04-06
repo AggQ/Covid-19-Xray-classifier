@@ -6,5 +6,5 @@ pip install torch torchvision numpy pandas matplotlib pillow scikit-learn
 
 
 
-#2. Folder Structure for D:\covid_xray_classifier
+# 2. Folder Structure for D:\covid_xray_classifier
 
