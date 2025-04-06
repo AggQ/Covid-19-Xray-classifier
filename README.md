@@ -4,6 +4,8 @@ This is a ML application which uses PyTorch to classify Covid-19 chest X-ray ima
 # 1. Install Python and Libraries:
 pip install torch torchvision numpy pandas matplotlib pillow scikit-learn
 
+
+
 #2. Folder Structure for D:\covid_xray_classifier
 D:\covid_xray_classifier\
 │   covid_classifier.py    # The main script
