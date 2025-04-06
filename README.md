@@ -7,21 +7,4 @@ pip install torch torchvision numpy pandas matplotlib pillow scikit-learn
 
 
 #2. Folder Structure for D:\covid_xray_classifier
-D:\covid_xray_classifier\
-│   covid_classifier.py    # The main script
-│
-└───data\                  # Main data directory
-    ├───normal\            # Directory for normal X-ray images
-    │       normal1.jpg    # Example normal X-ray image
-    │       normal2.jpg
-    │       ...
-    │
-    ├───viral\             # Directory for viral pneumonia X-ray images
-    │       viral1.jpg     # Example viral pneumonia X-ray image
-    │       viral2.jpg
-    │       ...
-    │
-    └───covid\             # Directory for COVID-19 X-ray images
-            covid1.jpg     # Example COVID-19 X-ray image
-            covid2.jpg
-            ...
+
